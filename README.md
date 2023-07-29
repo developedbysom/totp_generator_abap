@@ -20,10 +20,11 @@ As o or 0 and 1 or l looks very similar and user or consumer can make a mistake 
 
 *Allowed Base32 characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567"*
 
-> Log Table structure:
-> 
-![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/ca6f3604-df2d-4a1c-bec9-ed8df172738b)
+![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/4cb1ca98-2458-4eaf-921c-55cb7f89ba3c)
 
+> Log Table structure:
+>
+> ![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/aed6f38d-b8fb-49be-8822-00ce98570a8d)
 
 > Application Outcome:
 
