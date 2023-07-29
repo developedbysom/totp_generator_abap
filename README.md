@@ -12,3 +12,10 @@ This is all about HMAC - Hash based Message Authentication Code which generates 
 Passing this secret key to HMAC crypto along with the current unix time will create a has key. 
 
 This hash key now to be converted into a decimal figure to get the desired output which is the token value. 
+
+## Constraints:
+
+The secret key should contain only Base32 allowed characters. This is to avoid human error. 
+As o or 0 and 1 or l looks very similar and user or consumer can make a mistake to get the secret key correctly. 
+
+*Allowed Base32 characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567"*
