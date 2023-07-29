@@ -1,6 +1,7 @@
 # Time Based OTP Generator using ABAP
 
-![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/0bdc73fa-47c0-4b5a-b5ca-b228d1c29540)
+![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/0bdc73fa-47c0-4b5a-b5ca-b228d1c29540)![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/b41b7df4-64c4-430c-b45b-957c661dffeb)
+
 
 ## Context:
 
