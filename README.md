@@ -19,3 +19,13 @@ The secret key should contain only Base32 allowed characters. This is to avoid h
 As o or 0 and 1 or l looks very similar and user or consumer can make a mistake to get the secret key correctly. 
 
 *Allowed Base32 characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567"*
+
+> Log Table structure:
+> 
+![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/ca6f3604-df2d-4a1c-bec9-ed8df172738b)
+
+
+> Application Outcome:
+
+![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/c65f4ac6-9c8b-403a-a19e-68e2635ad74a)
+
