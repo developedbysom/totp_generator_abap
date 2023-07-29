@@ -1,5 +1,7 @@
 # Time Based OTP Generator using ABAP
 
+![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/0bdc73fa-47c0-4b5a-b5ca-b228d1c29540)
+
 ## Context:
 
 To enable Two Factor Authentication while making an API call. In general API provider shares a confidential API key with the consumers. So consumer while making a REST call to the provider side API, the key being passes with header request. So if this API ey gets compromised then to avoid data hacking, 2FA is a good option. With 2FA, extra layer of security can be ensured. 
