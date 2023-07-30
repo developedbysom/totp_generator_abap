@@ -27,9 +27,11 @@ As o or 0 and 1 or l looks very similar and user or consumer can make a mistake 
 
 > Log Table structure:
 >
-> ![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/aed6f38d-b8fb-49be-8822-00ce98570a8d)
+>![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/c0fb7040-7c95-4300-a30f-2b4ece27c326)
+
 
 > Application Outcome:
+![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/ead44b6c-6fc4-4c08-828f-4126f96092d1)
 
-![image](https://github.com/developedbysom/totp_generator_abap/assets/70325382/c65f4ac6-9c8b-403a-a19e-68e2635ad74a)
+
 
